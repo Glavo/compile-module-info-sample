@@ -1,4 +1,4 @@
-# Module Info Compiler Sample
+# Module Info Compiler Sample [![Gradle Build](https://github.com/Glavo/compile-module-info-sample/actions/workflows/build.yml/badge.svg)](https://github.com/Glavo/compile-module-info-sample/actions/workflows/build.yml)
 
 Sample project using the [module-info-compiler](https://github.com/Glavo/module-info-compiler) Gradle plugin.
 
